@@ -1,0 +1,1 @@
+console.log(`#ba${Date() / 26 * Math.PI - "a" / 42 * Date.now()}a`.toLowerCase())
